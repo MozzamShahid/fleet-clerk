@@ -1,0 +1,12 @@
+.textlabel{
+    color: #000;
+font-size: 22px;
+font-weight: 400;
+}
+
+.inputlabel {
+    border-radius: 4.678px;
+    border: 0.936px solid #000;
+    background: #FFF;
+    backdrop-filter: blur(7.5px);
+}
